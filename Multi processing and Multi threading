@@ -7,13 +7,13 @@ BASIS FOR COMPARISON                    MULTIPROCESSING	                        
 -----------------------------------------------------------------------------------------------------------------------------------------
 Basic	                                  Multiprocessing adds CPUs to increase           Multithreading creates multiple threads of a 
                                         computing power.                                single process to increase computing power.
-                                          	                                
+
 Execution	                              Multiple processes are executed                 Multiple threads of a single process
                                         concurrently.	                                  are executed concurrently.    
-                                                                                            
+
 Creation	                              Creation of a process is time-consuming         Creation of a thread is economical in both  
                                         and resource intensive.	                        sense time and resource.
-                                          
+
 Classification	                        Multiprocessing can be symmetric                Multithreading is not classified. 
                                         or asymmetric.	
 ------------------------------------------------------------------------------------------------------------------------------------------
